@@ -21,7 +21,7 @@ Follow the instructions in the snowplow-micro repository.
 - Know how to
 - To validate the microservice, run following command in local terminal:
 ```
-curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://192.168.54.129:9090/com.snowplowanalytics.iglu/v1
+curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://localhost:9090/com.snowplowanalytics.iglu/v1
 ```
 
 ### Bonus goal:
