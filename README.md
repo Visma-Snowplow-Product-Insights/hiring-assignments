@@ -13,7 +13,7 @@ The data science department helps Visma teams with various data science related 
 Create a XX that:
 
 Goal:
-- Know how to deploy microservices
+- Deploy microservice on Kubernetes
 - Know how to 
 
 ## Delivery
