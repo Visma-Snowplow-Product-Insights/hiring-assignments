@@ -24,6 +24,9 @@ Goal:
 curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://192.168.54.129:9090/com.snowplowanalytics.iglu/v1
 '''
 
+Bonus goal:
+- Instead of docker-decompose, run the service with a Kubernetes manifest instead.
+
 ## Delivery
 - As a forked repository in your Github profile.
 - As a demo
