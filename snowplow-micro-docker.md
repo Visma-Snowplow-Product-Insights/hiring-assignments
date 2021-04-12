@@ -19,7 +19,10 @@ Follow the instructions in the snowplow-micro repository.
 Goal:
 - Deploy microservice on your local machine
 - Know how to
-- Validate using in local terminal curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://192.168.54.129:9090/com.snowplowanalytics.iglu/v1
+- Validate using in local terminal
+'''
+curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://192.168.54.129:9090/com.snowplowanalytics.iglu/v1
+'''
 
 ## Delivery
 - As a forked repository in your Github profile.
