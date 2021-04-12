@@ -16,15 +16,15 @@ The challenge will demonstrate your knowledge in deploying and managing microser
 
 Follow the instructions in the snowplow-micro repository.
 
-Goal:
+### Goal:
 - Deploy microservice on your local machine
 - Know how to
-- Validate using in local terminal
-'''
+- To validate the microservice, run following command in local terminal:
+```
 curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://192.168.54.129:9090/com.snowplowanalytics.iglu/v1
-'''
+```
 
-Bonus goal:
+### Bonus goal:
 - Instead of docker-decompose, run the service with a Kubernetes manifest instead.
 
 ## Delivery
