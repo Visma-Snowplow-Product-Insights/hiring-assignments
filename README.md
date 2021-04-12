@@ -1,5 +1,3 @@
-# hiring-assignments
-
 # Recruitment assignment for Software / Data Engineer
 
 This task is intended for candidates applying for a software / data engineer position in the product insights team at the data science tech hub. This assignment is built around some of the technologies used in our production environment.
