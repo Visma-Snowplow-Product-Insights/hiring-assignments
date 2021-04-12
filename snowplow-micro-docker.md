@@ -6,7 +6,7 @@ We are super happy to have you considering a position in our team. The case belo
 
 ## Introduction
 
-The data science department helps Visma teams with various data science related tasks, where our team focuses on delivering *product insights* at scale. To accomplish this we utilize Snowplow (https://github.com/snowplow), Google Cloud services, and Dataform (https://dataform.co/). A big part to deliver this offering is with a layer of microservices, hosted and orchestrated on Kubernetes. To verify how well a candidate fits our needs, the case is built with the intention to showcase their skills in some of the technologies we use.
+The data science department helps Visma teams with various data science related tasks, where our team focuses on delivering *product insights* at scale. To accomplish this we utilize Snowplow (https://github.com/snowplow), Google Cloud services, and Dataform (https://dataform.co/). A big part to deliver this offering is with a layer of microservices, hosted and orchestrated on Kubernetes. This is built so that you can showcase your skills in some of the technologies we use.
 
 What is Snowplow? All in all, it is a service that tracks, collects and stores behavioral data in a database (read more here: https://snowplowanalytics.com/)
 
@@ -18,7 +18,7 @@ Follow the instructions in the snowplow-micro repository.
 
 ### Goal:
 - Deploy microservice on your local machine
-- Know how to
+- Know how to <TODO: something should be added here>
 - To validate the microservice, run following command in local terminal:
 ```
 curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://localhost:9090/com.snowplowanalytics.iglu/v1
@@ -31,7 +31,6 @@ curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-tes
 - As a forked repository in your Github profile.
 - As a demo
 - As a flow diagram
-
 
 ## Questions?
 
