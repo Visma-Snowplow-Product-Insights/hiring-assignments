@@ -15,7 +15,6 @@ Follow the instructions in the snowplow-micro repository.
 
 ### Goal:
 - Deploy snowplow-micro on your local machine (follow steps 1.1, 1.2, 1.3)
-- Know how to <TODO: something should be added here>
 - To validate the microservice, run following command in local terminal:
 ```
 curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://localhost:9090/com.snowplowanalytics.iglu/v1
