@@ -20,13 +20,13 @@ Follow the instructions in the snowplow-micro repository.
 curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://localhost:9090/com.snowplowanalytics.iglu/v1
 ```
 
+#### Bonus:
+- Instead of docker-decompose, run the service with a Kubernetes manifest instead (will require local Kubernetes setup).
+
 ## Delivery (examples)
 - As a forked repository in your Github profile
 - As a demo
 - As a flow diagram
-
-### Bonus:
-- Instead of docker-decompose, run the service with a Kubernetes manifest instead (will require local Kubernetes setup).
 
 ## Questions?
 If you have questions about the task or would like us to further specify some of the tings written above, you can contact the person who gave you the assignment.
