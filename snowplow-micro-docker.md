@@ -26,7 +26,7 @@ ok
 ```
 
 #### Bonus:
-- Instead of **docker-decompose.yml**, restructure the manifest into a Kubernetes manifest (will not require a functioning Kubernetes setup). What Kubernetes components are required? What are the benefits with Kubernetes?
+Instead of **docker-decompose.yml**, restructure the manifest into a Kubernetes manifest (will not require a functioning Kubernetes setup). What Kubernetes components are required? What are the benefits with Kubernetes?
 
 ## Delivery
 The delivery of this case is up to you, below are a few examples:
