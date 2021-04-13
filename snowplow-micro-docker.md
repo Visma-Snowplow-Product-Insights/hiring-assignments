@@ -20,13 +20,13 @@ Follow the instructions in the snowplow-micro repository (steps 1.1 and 1.2 unde
 curl -d "&e=pv&page=curl-test&url=http%3A%2F%2Fjust-testing.com&aid=snowplow-test" -X POST http://localhost:9090/com.snowplowanalytics.iglu/v1
 ```
 
-If it works the above curl command will return the response:
+If it works the above curl command will return the following response:
 ```
 ok
 ```
 
 #### Bonus:
-- Instead of **docker-decompose.yml**, restructure the manifest into a Kubernetes manifest (will not require a functioning Kubernetes setup).
+- Instead of **docker-decompose.yml**, restructure the manifest into a Kubernetes manifest (will not require a functioning Kubernetes setup). What Kubernetes components are required? What are the benefits with Kubernetes?
 
 ## Delivery
 The delivery of this case is up to you, below are a few examples:
@@ -35,7 +35,7 @@ The delivery of this case is up to you, below are a few examples:
 - As a flow diagram
 - etc.
 
-During the interview we will discuss how you approached the problem, strengths/weaknesses, also some concrete next steps if one would make this deployment more production-ready.
+During the interview we will discuss how you approached the problem, what tools you used, strengths/weaknesses, also some concrete next steps if one would make this deployment more production-ready.
 
 ## Questions?
 If you have questions about the task or would like us to further specify some of the things written above, you can contact the person who gave you the assignment.
