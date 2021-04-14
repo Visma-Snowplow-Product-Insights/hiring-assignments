@@ -4,7 +4,7 @@ This task is intended for candidates applying for a software / data engineer pos
 We are super happy to have you considering a position in our team. The case below should hopefully give you a little insight into some of the most common challenges we face as a team.
 
 ## Introduction
-The data science department helps Visma teams with various data science related tasks, where our team focuses on delivering *product insights* at scale. To accomplish this we utilize [Snowplow](https://github.com/snowplow), Google Cloud services, and [Dataform](https://dataform.co/). A big part to deliver this offering is with a layer of microservices, hosted and orchestrated on Kubernetes. This case is built so that you can try out and showcase your skills in some of the technologies we use.
+The data science department helps Visma teams with various data science related tasks, where our team focuses on delivering *product insights* at scale. To accomplish this we utilize [Snowplow](https://github.com/snowplow) open source, Google Cloud services, and [Dataform](https://dataform.co/). A big part to deliver this offering is with a layer of microservices, hosted and orchestrated on Kubernetes. This case is built so that you can try out and showcase your skills in some of the technologies we use.
 
 What is Snowplow? All in all, it is a service that tracks, collects and stores behavioral data in a database (read more [here](https://snowplowanalytics.com/)).
 
