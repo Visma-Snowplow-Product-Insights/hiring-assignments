@@ -31,7 +31,7 @@ Instead of **docker-decompose.yml**, restructure the manifest into a Kubernetes 
 ## Delivery
 Following will be expected:
 - Be able to run the above curl command live that yields the "ok" response
-- If you would put this service into production, how would you do it? Represent this in a flow diagram with the necessary steps and technologies used
+- If you would put this service into production in a cloud environment, how would you do it? Represent this in a flow diagram with the necessary steps and technologies used
 
 During the interview we will discuss how you approached the problem, what tools you used, strengths/weaknesses, also some concrete next steps if one would make this deployment more production-ready.
 
