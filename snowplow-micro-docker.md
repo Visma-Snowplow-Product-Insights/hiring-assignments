@@ -1,4 +1,4 @@
-# Recruitment assignment for Software / Data Engineer
+# Recruitment assignment for Infrastructure Engineer
 This task is intended for candidates applying for a software / data engineer position in the product insights team at the data science tech hub. This assignment is built around some of the technologies used in our production environment.
 
 We are super happy to have you considering a position in our team. The case below should hopefully give you a little insight into some of the most common challenges we face as a team.
