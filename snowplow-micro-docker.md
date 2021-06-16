@@ -29,11 +29,9 @@ ok
 Instead of **docker-decompose.yml**, restructure the manifest into a Kubernetes manifest (will not require a functioning Kubernetes setup). What Kubernetes components are required? What are the benefits with Kubernetes?
 
 ## Delivery
-The delivery of this case is up to you, below are a few examples:
-- Be able to run the above curl command live
-- As a forked repository in your Github profile with your solution there
-- As a flow diagram
-- etc.
+Following will be expected:
+- Be able to run the above curl command live that yields the "ok" response
+- If you would put this service into production, how would you do it? Represent this in a flow diagram with the necessary steps and technologies used
 
 During the interview we will discuss how you approached the problem, what tools you used, strengths/weaknesses, also some concrete next steps if one would make this deployment more production-ready.
 
